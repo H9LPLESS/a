@@ -1,85 +1,85 @@
-local 1 = 1
-local 2 = 2
-local 3 = 3
-local 4 = 4
-local 5 = 5
-local 6 = 6
-local 7 = 7
-local 8 = 8
-local 9 = 9
-local 10 = 10
-local 11 = 11
-local 12 = 12
-while local 1 == 1 do
+1 = 1
+2 = 2
+3 = 3
+4 = 4
+5 = 5
+6 = 6
+7 = 7
+8 = 
+9 = 9
+10 = 10
+11 = 11
+12 = 12
+while 1 == 1 do
 wait ()
 game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-75.4180222, 45.94925976, 1362.59961)
 end
 wait (1)
-local 1 = 13
-while local 2 == 2 do
+1 = 13
+while 2 == 2 do
 wait()
 game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-47.5628128, 50.0974102, 2142.375)
 end
 wait(1)
 local 2 = 14
-while local 3 == 3 do
+while 3 == 3 do
 wait()
 game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-51.6409721, 66.1628418, 2908.9082)
 end
 wait(1)
-local 3 = 15
-while local 4 == 4 do
+3 = 15
+while 4 == 4 do
 wait()
 game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-64.119133, 70.0799408, 3683.88013)
 end
 wait(1)
-local 4 = 16
-while local 5 == 5 do
+4 = 16
+while 5 == 5 do
 wait()
 game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-75.8096085, 75.451725, 4455.17139)
 end
 wait(1)
-local 5 = 17
-while local 6 == 6 do
+5 = 17
+while 6 == 6 do
 wait()
 game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-75.8096085, 66.451725, 4455.17139)
 end
 wait(1)
-local 6 = 18
-while local 7 == 7 do
+6 = 18
+while 7 == 7 do
 wait()
 game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-63.3672028, 66.550972, 5222.51416)
 end
 wait(1)
-local 7 = 19
-while local 8 == 8 do
+7 = 19
+while 8 == 8 do
 wait()
 game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-51.1463699, 75.5203743, 5988.80225)
 end
 wait(1)
-local 8 = 20
-while local 9 == 9 do
+8 = 20
+while 9 == 9 do
 wait()
 game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-87.6318283, 70.6826401, 6764.21191)
 end
 wait(1)
-local 9 = 21
-while local 10 == 10 do
+9 = 21
+while 10 == 10 do
 wait()
 game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-73.9430771, 80.9323578, 7527.90479)
 end
 wait(1)
-local 10 = 22
-while local 11 == 11 do
+10 = 22
+while 11 == 11 do
 wait()
 game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-19.4428616, 90.6859055, 8301.79199)
 end
 wait(1)
-local 11 = 23
-while local 12 == 12
+11 = 23
+while 12 == 12
 wait()
 game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-54.6937332, -354.967102, 9495.07617)
 end
 wait(1)
-local 12
+12
 game.Players.H9LPLESS.Character.Humanoid.Health = game.Players.H9LPLESS.Character.Humanoid.Health - 999999999
