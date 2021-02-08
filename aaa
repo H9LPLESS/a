@@ -27,5 +27,6 @@ if tp == 2 then
 game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-54.6937332, -354.967102, 9495.07617)
 wait(13)
 game.Players.H9LPLESS.Character.Humanoid.Health = game.Players.H9LPLESS.Character.Humanoid.Health - 999999999
+tp = tp - 1
 end
 end
